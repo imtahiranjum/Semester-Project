@@ -1,0 +1,6 @@
+Burger		200
+Chips		100
+Coffee		100
+mango		90
+tea		50
+Mirinda		60
